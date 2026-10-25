@@ -50,14 +50,7 @@ Focuses on exposed frontend API keys, insecure administrator credentials, unsafe
 
 ## Repository Structure
 
-```text
-ConnectSphere-Cybersecurity-Assessment/
-├── README.md
-├── ConnectSphere_Cybersecurity_Governance_Assessment.pdf
-└── diagrams/
-    ├── set-1-corrected-architecture.png
-    └── set-2-corrected-architecture.png
-```
+
 
 The diagram image files are optional if the corrected architecture diagrams are available only inside the PDF.
 
